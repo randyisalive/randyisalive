@@ -1,5 +1,4 @@
-# Hi there, I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Coda&size=28&duration=3000&pause=800&color=D5D5D5&background=2DFF3903&center=true&vCenter=true&width=435&lines=Rahmandi;Rendy;Rei)](https://git.io/typing-svg) 👋
-
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Coda&size=28&duration=3000&pause=1000&color=D5D5D5&background=2DFF3903&center=true&vCenter=true&width=450&lines=Hi+there%2C+I'm+Rahmandi;Hi+there%2C+I'm+Rendy;Hi+there%2C+I'm+Rei)](https://git.io/typing-svg)
 ## About Me
 I'm a developer with experience in React, Python, and PHP. I enjoy working on both front-end and back-end technologies, and I'm always eager to learn new things and take on new challenges.
 
