@@ -9,6 +9,7 @@ I'm a developer with experience in React, Python, and PHP. I enjoy working on bo
 - 📫 How to reach me: [Email me here!](https://portofolio-website-tau-three.vercel.app/#get-in-touch-container)<img src="https://skillicons.dev/icons?i=gmail" width="15" /> 
 - ⚡ Fun fact: [I'm a great singer 🧑‍🎤](https://www.youtube.com/@Rei-bg3rf)
 
+
 ## 💻Technologies & Tools💻
 - **Front-end:** React, HTML, CSS, JavaScript (<img src="https://skillicons.dev/icons?i=react,html,css,js" width="70" />)
 - **Back-end:** Python (Flask), PHP (<img src="https://skillicons.dev/icons?i=python,flask,php" width="50" />)
@@ -18,31 +19,29 @@ I'm a developer with experience in React, Python, and PHP. I enjoy working on bo
 ## 🏆My Stats🏆
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=randyisalive&show_icons=true&theme=transparent" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=randyisalive&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randyisalive&layout=compact&theme=transparent" />
+  <img height=180 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randyisalive&layout=compact&theme=transparent" />
 </a>
 
+## 💡A Quote💡
+<p align=center>
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <img  align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&?border=true" />
+</a>
+</p>
 
 
-## Projects
-Here are some of the projects I've worked on:
+## 🎮Hobbies🎮
+<p align=center>
 
-### Human Resources Management System (HRIS) [Link](https://shields.io/badge/style-flat-green?logo=appveyor&style=flat)
-Description: [Brief Description of the Project]
-- **Technologies:** [Technologies Used]
-- **Repository:** [Link to Repository]
+<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
+<img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
 
-### [Another Project Name]
-Description: [Brief Description of the Project]
-- **Technologies:** [Technologies Used]
-- **Repository:** [Link to Repository]
+  
+</p>
 
-## Get in Touch
-Feel free to reach out to me via [Your Preferred Contact Method] if you have any questions or just want to connect!
 
-!LinkedIn
-!GitHub
-
-Thanks for visiting my profile!
