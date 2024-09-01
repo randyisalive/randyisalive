@@ -1,3 +1,9 @@
+<img src="https://cdn.dribbble.com/users/2016007/screenshots/15690051/media/2b034e95339e7b36226d3d40f1ffa773.gif" alt="Alt text"/>
+
+<p align=center> ©️ Background GIF by <a href="https://dribbble.com/PriyaMistry">Priya Mistry</a> on <a href="https://dribbble.com/">Dribble</a></p>
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel-Decorative&size=70&duration=3000&pause=1000&color=blue&background=0d11173&center=true&vCenter=true&width=1000&height=200&lines=Hi+There%2C+I'm+Rahmandi;Hi+There%2C+I'm+Rendy;Hi+There%2C+I'm+Rei)]([https://git.io/typing-svg](https://portofolio-website-tau-three.vercel.app/))
 
 ## About Me
@@ -8,6 +14,7 @@ I'm a developer with experience in React, Python, and PHP. I enjoy working on bo
 , **PyTorch** <img src="https://skillicons.dev/icons?i=pytorch" width="15" />, **Artificial Inteligence 🤖**
 - 📫 How to reach me: [Email me here!](https://portofolio-website-tau-three.vercel.app/#get-in-touch-container)<img src="https://skillicons.dev/icons?i=gmail" width="15" /> 
 - ⚡ Fun fact: [I'm a great singer 🧑‍🎤](https://www.youtube.com/@Rei-bg3rf)
+- 💡My Portofolio: <a href="https://portofolio-website-tau-three.vercel.app/">Rahmandi's | Portofolio</a>
 
 
 ## 💻Technologies & Tools💻
