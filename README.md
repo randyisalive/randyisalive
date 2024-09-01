@@ -1,9 +1,9 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Rahmandi 👋
 
 ## About Me
 I'm a developer with experience in React, Python, and PHP. I enjoy working on both front-end and back-end technologies, and I'm always eager to learn new things and take on new challenges.
 
-- 🔭 I’m currently working on [Your Current Project]
+- 🔭 I’m currently working on Link
 - 🌱 I’m currently learning [New Technology or Skill]
 - 👯 I’m looking to collaborate on [Project or Open Source Initiative]
 - 🤔 I’m looking for help with [Specific Problem or Challenge]
