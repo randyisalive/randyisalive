@@ -6,15 +6,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel-Decorative&size=70&duration=3000&pause=1000&color=blue&background=0d11173&center=true&vCenter=true&width=1000&height=200&lines=Hi+There%2C+I'm+Rahmandi;Hi+There%2C+I'm+Rendy;Hi+There%2C+I'm+Rei)]([https://git.io/typing-svg](https://portofolio-website-tau-three.vercel.app/))
 
+<p style="color:red; font-bold:800">UPDATED: 07/02/2025</p>
 ## About Me
 I'm a developer with experience in React, Python, and PHP. I enjoy working on both front-end and back-end technologies, and I'm always eager to learn new things and take on new challenges.
 
-- 🔭 I’m currently working on [Projects Management System](https://agenda.erpimj.com/index.php?module=users/login) and [CMS | Rahmandi's Portofolio](https://portofolio-cms-frontend.vercel.app/login)
+- 🔭 I’m currently working on **KPI AGENDA System**
 - 🌱 I’m currently learning **NextJS**  <img src="https://skillicons.dev/icons?i=next" width="15" />
 , **PyTorch** <img src="https://skillicons.dev/icons?i=pytorch" width="15" />, **Artificial Inteligence 🤖**
 - 📫 How to reach me: [Email me here!](https://portofolio-website-tau-three.vercel.app/#get-in-touch-container)<img src="https://skillicons.dev/icons?i=gmail" width="15" /> 
 - ⚡ Fun fact: [I'm a great singer 🧑‍🎤](https://www.youtube.com/@Rei-bg3rf)
-- 💡My Portofolio: <a href="https://portofolio-website-tau-three.vercel.app/">Rahmandi's | Portofolio</a>
+- 💡My Portofolio: [Portofolio Link](https://www.canva.com/design/DAGJA4B_gVY/d5eBPIKwAQdaw2RKBvDU9Q/view?utm_content=DAGJA4B_gVY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1f2b1b02a2)
 
 
 ## 💻Technologies & Tools💻
