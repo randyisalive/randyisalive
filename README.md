@@ -27,7 +27,7 @@ I'm a developer with experience in React, Python, and PHP. I enjoy working on bo
 ## 🏆My Stats🏆
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=randyisalive&show_icons=true&theme=transparent" />
+  <img height=180 align="center" src="[https://github-readme-stats.vercel.app/api?username=randyisalive&show_icons=true&theme=transparent](https://github-readme-stats-eight-theta.vercel.app/api?username=randyisalive&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randyisalive&layout=compact&theme=transparent" />
