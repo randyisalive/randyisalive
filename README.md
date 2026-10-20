@@ -10,8 +10,8 @@
 ## About Me
 I'm a developer with experience in React, Python, and PHP. I enjoy working on both front-end and back-end technologies, and I'm always eager to learn new things and take on new challenges.
 
-- 🔭 I’m currently working on **KPI AGENDA System**
-- 🌱 I’m currently learning **NextJS**  <img src="https://skillicons.dev/icons?i=next" width="15" />
+- 🔭 I’m currently working on **VISAINYUK**
+- 🌱 I’m currently learning **Golang**  <img src="https://skillicons.dev/icons?i=next" width="15" />
 , **PyTorch** <img src="https://skillicons.dev/icons?i=pytorch" width="15" />, **Artificial Inteligence 🤖**
 - 📫 How to reach me: [Email me here!](https://portofolio-website-tau-three.vercel.app/#get-in-touch-container)<img src="https://skillicons.dev/icons?i=gmail" width="15" /> 
 - ⚡ Fun fact: [I'm a great singer 🧑‍🎤](https://www.youtube.com/@Rei-bg3rf)
